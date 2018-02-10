@@ -1,0 +1,15 @@
+[general]
+name=RSITimer
+qgisMinimumVersion=2.12
+description=Tools to capture and zoom to coordinates (including MGRS), using decimal, DMS, and WKT notation. Provides external map support and MGRS conversion routines.
+version=0.9.6
+author=Joseph
+email=joseph.james.reid@gmail.com
+about=
+   
+category=Plugins
+icon=images/copyicon.png
+experimental=False
+deprecated=False
+changelog=
+   
